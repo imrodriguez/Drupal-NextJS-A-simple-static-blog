@@ -16,7 +16,7 @@
     "dotenv-load": "^2.0.0",
     "es6-promise": "^4.2.8",
     "isomorphic-fetch": "^2.2.1",
-    "next": "9.3.6",
+    "next": "11.1.3",
     "next-env": "^1.1.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
